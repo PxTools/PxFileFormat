@@ -8,6 +8,6 @@ The value text is free-form and can be localized to different languages.
 
 **Example:**
 ```
-UPDATE-FREQUENCY[en]: "Monthly";
-UPDATE-FREQUENCY[sv]: "Månadsvis";
+UPDATE-FREQUENCY[en]="Monthly";
+UPDATE-FREQUENCY[sv]="Månadsvis";
 ```
