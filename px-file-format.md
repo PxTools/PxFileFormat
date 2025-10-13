@@ -97,7 +97,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[DEFAULT-GRAPH](keywords/DEFAULT-GRAPH.md)             |No       |0-1         |No                |              |
 |[DESCRIPTION](keywords/DESCRIPTION.md)                 |No       |0-1         |Yes               |              |
 |[DESCRIPTIONDEFAULT](keywords/DESCRIPTIONDEFAULT.md)   |No       |0-1         |No                |              |
-|[DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)           |No       |0-1         |No                |              |
 |[DOMAIN](keywords/DOMAIN.md)                           |No       |0-16        |No                |              |
 |[DOUBLECOLUMN](keywords/DOUBLECOLUMN.md)               |No       |0-16        |Yes               |NO            |
 |[ELIMINATION](keywords/ELIMINATION.md)                 |No       |0-16        |Yes               |NO            |
@@ -161,7 +160,6 @@ applications should not depend on that this order is used.
 - [CREATION-DATE](keywords/CREATION-DATE.md)
 - [NEXT-UPDATE](keywords/NEXT-UPDATE.md)
 - [PX-SERVER](keywords/PX-SERVER.md)
-- [DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)
 - [UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)
 - [TABLEID](keywords/TABLEID.md)
 - [SYNONYMS](keywords/SYNONYMS.md)
