@@ -136,7 +136,7 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[TIMEVAL](keywords/TIMEVAL.md)                         |No       |0-1         |Yes               |              |
 |[TITLE](keywords/TITLE.md)                             |Yes      |  1         |Yes               |              |
 |[UNITS](keywords/UNITS.md)                             |Yes      |1-?         |Yes               |              |
-|[UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)       |No       |0-1         |No                |              |
+|[UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)       |No       |0-1         |Yes               |              |
 |[VALUENOTE](keywords/VALUENOTE.md)                     |No       |0-?         |Yes               |              |
 |[VALUENOTEX](keywords/VALUENOTEX.md)                   |No       |0-?         |Yes               |              |
 |[VALUES](keywords/VALUES.md)                           |Yes      |1-16        |Yes               |              |
