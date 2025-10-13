@@ -124,7 +124,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[PARTITIONED](keywords/PARTITIONED.md)                 |No       |0-16        |Yes               |              |
 |[PRECISION](keywords/PRECISION.md)                     |No       |0-?         |Yes               |              |
 |[PRESTEXT](keywords/PRESTEXT.md)                       |No       |0-16        |No                |1             |
-|[PX-SERVER](keywords/PX-SERVER.md)                     |No       |0-1         |No                |              |
 |[REFPERIOD](keywords/REFPERIOD.md)                     |No       |0-1/0-?     |Yes               |              |
 |[ROUNDING](keywords/ROUNDING.md)                       |No       |0-1         |No                |              |
 |[SEASADJ](keywords/SEASADJ.md)                         |No       |0-?         |No                |NO            |
@@ -160,7 +159,6 @@ applications should not depend on that this order is used.
 - [LANGUAGES](keywords/LANGUAGES.md)
 - [CREATION-DATE](keywords/CREATION-DATE.md)
 - [NEXT-UPDATE](keywords/NEXT-UPDATE.md)
-- [PX-SERVER](keywords/PX-SERVER.md)
 - [DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)
 - [UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)
 - [TABLEID](keywords/TABLEID.md)
