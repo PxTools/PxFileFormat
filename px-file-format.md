@@ -96,6 +96,7 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[DEFAULT-GRAPH](keywords/DEFAULT-GRAPH.md)             |No       |0-1         |No                |              |
 |[DESCRIPTION](keywords/DESCRIPTION.md)                 |No       |0-1         |Yes               |              |
 |[DESCRIPTIONDEFAULT](keywords/DESCRIPTIONDEFAULT.md)   |No       |0-1         |No                |              |
+|[DISCONTINUED](keywords/DISCONTINUED.md)               |No       |0-1         |No                |NO            |
 |[DOMAIN](keywords/DOMAIN.md)                           |No       |0-16        |No                |              |
 |[DOUBLECOLUMN](keywords/DOUBLECOLUMN.md)               |No       |0-16        |Yes               |NO            |
 |[ELIMINATION](keywords/ELIMINATION.md)                 |No       |0-16        |Yes               |NO            |
@@ -169,6 +170,7 @@ applications should not depend on that this order is used.
 - [SUBJECT](keywords/SUBJECT.md)
 - [CODE](keywords/CODE.md)
 - [SUBJECT-AREA](keywords/SUBJECT-AREA.md)
+- [DISCONTINUED](keywords/DISCONTINUED.md) 
 - [COPYRIGHT](keywords/COPYRIGHT.md)
 - [DESCRIPTION](keywords/DESCRIPTION.md)
 - [TITLE](keywords/TITLE.md)
