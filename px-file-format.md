@@ -99,7 +99,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[DESCRIPTIONDEFAULT](keywords/DESCRIPTIONDEFAULT.md)   |No       |0-1         |No                |              |
 |[DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)           |No       |0-1         |No                |              |
 |[DOMAIN](keywords/DOMAIN.md)                           |No       |0-16        |No                |              |
-|[DOUBLECOLUMN](keywords/DOUBLECOLUMN.md)               |No       |0-16        |Yes               |NO            |
 |[ELIMINATION](keywords/ELIMINATION.md)                 |No       |0-16        |Yes               |NO            |
 |[FIRST-PUBLISHED](keywords/FIRST-PUBLISHED.md)         |No       |0-1         |No                |              |
 |[HEADING](keywords/HEADING.md)                         |Yes      |(0)-1       |Yes               |              |
@@ -187,7 +186,6 @@ applications should not depend on that this order is used.
 - [VALUES](keywords/VALUES.md)
 - [TIMEVAL](keywords/TIMEVAL.md)
 - [CODES](keywords/CODES.md)
-- [DOUBLECOLUMN](keywords/DOUBLECOLUMN.md)
 - [PRESTEXT](keywords/PRESTEXT.md)
 - [DOMAIN](keywords/DOMAIN.md)
 - [VARIABLE-TYPE](keywords/VARIABLE-TYPE.md)
