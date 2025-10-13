@@ -3,4 +3,10 @@
 **Length:** 256 characters
 **Multiline:** Yes
 
-This keyword is read and saved in the PX-file but not shown in PC-axis.
+Date and time for the next planned update.
+Format: `CCYYMMDD hh:mm`.
+
+**Example:**
+```
+NEXT-UPDATE="20240101 12:00";
+```
