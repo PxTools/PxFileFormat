@@ -65,7 +65,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[ATTRIBUTE-ID](keywords/ATTRIBUTE-ID.md)               |No       |0-1         |No                |              |
 |[ATTRIBUTE-TEXT](keywords/ATTRIBUTE-TEXT.md)           |No       |0-1         |Yes               |              |
 |[ATTRIBUTES](keywords/ATTRIBUTES.md)                   |No       |0-?         |No                |              |
-|[AUTOPEN](keywords/AUTOPEN.md)                         |No       |0-1         |No                |NO            |
 |[AXIS-VERSION](keywords/AXIS-VERSION.md)               |No       |0-1         |No                |              |
 |[BASEPERIOD](keywords/BASEPERIOD.md)                   |No       |0-?         |Yes               |              |
 |[CELLNOTE](keywords/CELLNOTE.md)                       |No       |0-?         |Yes               |              |
@@ -97,7 +96,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[DEFAULT-GRAPH](keywords/DEFAULT-GRAPH.md)             |No       |0-1         |No                |              |
 |[DESCRIPTION](keywords/DESCRIPTION.md)                 |No       |0-1         |Yes               |              |
 |[DESCRIPTIONDEFAULT](keywords/DESCRIPTIONDEFAULT.md)   |No       |0-1         |No                |              |
-|[DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)           |No       |0-1         |No                |              |
 |[DOMAIN](keywords/DOMAIN.md)                           |No       |0-16        |No                |              |
 |[DOUBLECOLUMN](keywords/DOUBLECOLUMN.md)               |No       |0-16        |Yes               |NO            |
 |[ELIMINATION](keywords/ELIMINATION.md)                 |No       |0-16        |Yes               |NO            |
@@ -160,6 +158,7 @@ applications should not depend on that this order is used.
 - [CREATION-DATE](keywords/CREATION-DATE.md)
 - [NEXT-UPDATE](keywords/NEXT-UPDATE.md)
 - [DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)
+- [PX-SERVER](keywords/PX-SERVER.md)
 - [UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)
 - [TABLEID](keywords/TABLEID.md)
 - [SYNONYMS](keywords/SYNONYMS.md)
@@ -169,7 +168,6 @@ applications should not depend on that this order is used.
 - [ROUNDING](keywords/ROUNDING.md)
 - [MATRIX](keywords/MATRIX.md)
 - [AGGREGALLOWED](keywords/AGGREGALLOWED.md)
-- [AUTOPEN](keywords/AUTOPEN.md)
 - [SUBJECT](keywords/SUBJECT.md)
 - [CODE](keywords/CODE.md)
 - [SUBJECT-AREA](keywords/SUBJECT-AREA.md)
