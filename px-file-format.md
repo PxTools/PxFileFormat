@@ -157,8 +157,6 @@ applications should not depend on that this order is used.
 - [LANGUAGES](keywords/LANGUAGES.md)
 - [CREATION-DATE](keywords/CREATION-DATE.md)
 - [NEXT-UPDATE](keywords/NEXT-UPDATE.md)
-- [DIRECTORY-PATH](keywords/DIRECTORY-PATH.md)
-- [PX-SERVER](keywords/PX-SERVER.md)
 - [UPDATE-FREQUENCY](keywords/UPDATE-FREQUENCY.md)
 - [TABLEID](keywords/TABLEID.md)
 - [SYNONYMS](keywords/SYNONYMS.md)
