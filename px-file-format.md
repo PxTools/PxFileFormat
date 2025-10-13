@@ -74,7 +74,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[CHARSET](keywords/CHARSET.md)                         |No       |0-1         |No                |              |
 |[CODEPAGE](keywords/CODEPAGE.md)                       |No       |0-1         |No                |iso-8859-1    |
 |[CODES](keywords/CODES.md)                             |Yes      |0-16        |No                |              |
-|[CONFIDENTIAL](keywords/CONFIDENTIAL.md)               |No       |0-1         |No                |0             |
 |[CONTACT](keywords/CONTACT.md)                         |No       |0-?         |Yes               |              |
 |[CONTENTS](keywords/CONTENTS.md)                       |Yes      |1           |Yes               |              |
 |[CONTVARIABLE](keywords/CONTVARIABLE.md)               |Yes      |0-1         |Yes               |              |
@@ -176,7 +175,6 @@ applications should not depend on that this order is used.
 - [SUBJECT](keywords/SUBJECT.md)
 - [CODE](keywords/CODE.md)
 - [SUBJECT-AREA](keywords/SUBJECT-AREA.md)
-- [CONFIDENTIAL](keywords/CONFIDENTIAL.md)
 - [COPYRIGHT](keywords/COPYRIGHT.md)
 - [DESCRIPTION](keywords/DESCRIPTION.md)
 - [TITLE](keywords/TITLE.md)
