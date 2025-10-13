@@ -65,7 +65,6 @@ languages are available are given in the keyword [LANGUAGES](keywords/LANGUAGES.
 |[ATTRIBUTE-ID](keywords/ATTRIBUTE-ID.md)               |No       |0-1         |No                |              |
 |[ATTRIBUTE-TEXT](keywords/ATTRIBUTE-TEXT.md)           |No       |0-1         |Yes               |              |
 |[ATTRIBUTES](keywords/ATTRIBUTES.md)                   |No       |0-?         |No                |              |
-|[AUTOPEN](keywords/AUTOPEN.md)                         |No       |0-1         |No                |NO            |
 |[AXIS-VERSION](keywords/AXIS-VERSION.md)               |No       |0-1         |No                |              |
 |[BASEPERIOD](keywords/BASEPERIOD.md)                   |No       |0-?         |Yes               |              |
 |[CELLNOTE](keywords/CELLNOTE.md)                       |No       |0-?         |Yes               |              |
@@ -171,7 +170,6 @@ applications should not depend on that this order is used.
 - [ROUNDING](keywords/ROUNDING.md)
 - [MATRIX](keywords/MATRIX.md)
 - [AGGREGALLOWED](keywords/AGGREGALLOWED.md)
-- [AUTOPEN](keywords/AUTOPEN.md)
 - [SUBJECT](keywords/SUBJECT.md)
 - [CODE](keywords/CODE.md)
 - [SUBJECT-AREA](keywords/SUBJECT-AREA.md)
